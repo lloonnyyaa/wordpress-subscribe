@@ -1,0 +1,1 @@
+Wordpress subscribe plugin
